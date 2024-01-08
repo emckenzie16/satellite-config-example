@@ -6,7 +6,7 @@ metadata:
     razee/watch-resource: lite
     dummy: test
   name: helloworld-app
-  namespace: toolchain-ns
+  namespace: 673000gnow-se-l3
 spec:
   replicas: 1
   selector:
